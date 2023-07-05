@@ -70,7 +70,7 @@ h3 {
   font-size: 0.9rem;
   color: #333333;
 }
-.login_button {
+.button_container {
   width: 100%;
   margin-top: 15px;
   text-align: center;
